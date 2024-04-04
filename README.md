@@ -2,9 +2,8 @@
 # 💫 Sobre mim:
 😁 Nome: Daniel Teixeira<br>👴🏾 Idade: 24 anos<br>🥷🏾 Profissão: Desenvolvedor Front-End<br>
 📖 ESTUDANTE : Analise e Desenvolvimento de Sistemas / Desenvolvedor Front End<br>🏯 OBJETIVO : Emprego na Área<br>🧑🏾‍💻 Lógica de programação<br>
- 
 
-
+![giphy](https://github.com/dannicod/dannicod/assets/166052727/28610990-8073-4db4-a44e-700983ea6e34)
 
 
 
