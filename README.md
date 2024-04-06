@@ -38,7 +38,7 @@
 
 <br>
 <div align="center">
-<img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="programador">
+<img src="https://media1.tenor.com/m/XZmkTB1ShDcAAAAC/html-peter.gif" width="690" height="439.2168674698795" alt="Html Peter GIF - Html Peter Html With Peter GIFs" style="max-width: 690px;">
 </div>
 <br>
 <div align="center">
@@ -55,7 +55,5 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=seja+bem+vindo!;" />
 </h1>
-
-
 
 
