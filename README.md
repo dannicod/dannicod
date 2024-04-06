@@ -35,7 +35,7 @@
   <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dannicod&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
 </br>
-##
+
 <br>
 <div align="center">
 <img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="programador">
@@ -51,5 +51,10 @@
  <h3>🚀ALURA</h3>
   <ul>
     <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags"><p>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas ⏳</p></a>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=seja+bem+vindo!;" />
+</h1>
+
 
 
