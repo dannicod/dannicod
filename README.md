@@ -1,5 +1,5 @@
 <div  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+me+chamo+Dannicod+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=35&pause=1000&center=true&random=false&width=500&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+me+chamo+Dannicod+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <div  align="center" >
   - 👨‍💻 Cursando Analise e Desenvolvimento de Sistemas ...
@@ -35,15 +35,21 @@
   <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dannicod&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
 </br>
-
-## 
+##
 <br>
 <div align="center">
 <img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" alt="programador">
 </div>
 <br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=seja+bem+vindo!;" />
-</h1>
+<div align="center">
+<h2 align="center" >📚 CERTIFICADOS 📚</h2>
+<br>
+  <h3>SENAI</h3>
+      <p></p>Desenvolvedor Front-End 240 horas ⏳</p>
+      <li>Logica de Programação ✔️</li>
+      <li>Html5 & Css3 ⏳</li>
+ <h3>🚀ALURA</h3>
+  <ul>
+    <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags"><p>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas ⏳</p></a>
 
 
