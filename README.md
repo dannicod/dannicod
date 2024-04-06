@@ -1,7 +1,6 @@
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Dannicod 💻!;" />
-</h1>
+<div  align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=30&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1!%F0%9F%91%8B;Eu+me+chamo+Dannicod+%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 <div  align="center" >
   - 👨‍💻 Cursando Analise e Desenvolvimento de Sistemas ...
   <br>
