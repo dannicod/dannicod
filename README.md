@@ -1,17 +1,15 @@
-# Daniel-Teixeira
-# 💫 Sobre mim:
-😁 Nome: Daniel Teixeira<br>👴🏾 Idade: 24 anos<br>🥷🏾 Profissão: Desenvolvedor Front-End<br>
-📖 ESTUDANTE : Analise e Desenvolvimento de Sistemas / Desenvolvedor Front End<br>🏯 OBJETIVO : Emprego na Área<br>🧑🏾‍💻 Lógica de programação<br>
 
-![giphy](https://github.com/dannicod/dannicod/assets/166052727/28610990-8073-4db4-a44e-700983ea6e34)
+### Olá meu nome é Daniel Teixeira 💻
 
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielteixeirabsb/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eidaniel@outlook.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielteixeiraz._?igsh=MXRjaXB3dmVmeXMydw=/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannicod&show_icons=true&theme=dark)
 
- <a href="https://www.instagram.com/danielteixeiraz._?igsh=MXRjaXB3dmVmeXMydw=/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+## Tecnólogias que eu no meu dia
 
-<a href="https://www.linkedin.com/in/danielteixeirabsb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:eidaniel@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
-![lu01tsQqf1mJuHrFVq](https://github.com/dannicod/dannicod/assets/166052727/78206f89-e4f8-4d77-8814-38521e1f3370)
+<div style="display: inline_block"><br/>
+   <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
