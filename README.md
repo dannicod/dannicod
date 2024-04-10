@@ -51,6 +51,10 @@
  <h3>🚀ALURA</h3>
   <ul>
     <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags"><p>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas ⏳</p></a>
+    <br>
+<div align="center">
+<h2 align="center" >📚 PROJETOS 📚</h2>
+<br>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=seja+bem+vindo!;" />
