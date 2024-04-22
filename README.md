@@ -38,7 +38,7 @@
 
 <br>
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/pereira-alex-pereira-poatan-gif-12306391207186034227" alt="Html Peter GIF - Poatan">
+<img src="https://tenor.com/pt-BR/view/pereira-alex-pereira-poatan-gif-12306391207186034227" alt="poatan">
 </div>
 <br>
 <div align="center">
