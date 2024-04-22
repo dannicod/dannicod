@@ -55,7 +55,7 @@
       <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/SoftSkills.pdf">SoftSkills - 8 horas</a>
  <h3>🚀ALURA</h3>
   <ul>
-    <a href="[https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags](https://github.com/dannicod/Certificados/blob/main/ALURA/Daniel%20Teixeira%20da%20Silva%20-%20Curso%20HTML%20e%20CSS_%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags%20-%20Alura.pdf)"><p>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas ⏳</p></a>
+    <a href="[https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags](https://github.com/dannicod/Certificados/blob/main/ALURA/Daniel%20Teixeira%20da%20Silva%20-%20Curso%20HTML%20e%20CSS_%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags%20-%20Alura.pdf)">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas </a>
     <br>
 <div align="center">
 <h2 align="center" >📚 PROJETOS 📚</h2>
