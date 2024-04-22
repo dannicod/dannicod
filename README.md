@@ -46,9 +46,10 @@
 <br>
   <h3>SENAI</h3>
       <p> Desenvolvedor Front-End 240 horas ⏳</p>
-      <li>Logica de Programação ✔️</li>
-      <li>Html5 & Css3 ⏳</li>
-    <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Desafios%20Complexos%20e%20Lideran%C3%A7a%20Impactante.pdf">Desafios Complexos e Liderança Impactante - 8 horas</a>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Eleva%C3%A7%C3%A3o%20Sustent%C3%A1vel%20Dom%C3%ADnio%20do%20ESG%20para%20um%20Futuro%20Respons%C3%A1vel.pdf">Elevação Sustentável: Domínio do ESG para um Futuro Responsável - 8 horas</a>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Despertando%20a%20Criatividade%20e%20a%20Inova%C3%A7%C3%A3o.pdf">Despertando a Criatividade e a Inovação - 8 horas</a>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Desafios%20Complexos%20e%20Lideran%C3%A7a%20Impactante.pdf">Desafios Complexos e Liderança Impactante - 8 horas</a>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/SoftSkills.pdf">SoftSkills - 8 horas</a>
  <h3>🚀ALURA</h3>
   <ul>
     <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags"><p>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas ⏳</p></a>
