@@ -29,7 +29,7 @@
 <h2 align="center" >⚡ Stats ⚡</h2>
 <br>
 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dannicod&show_icons=true&theme=react&include_all_commits=true&count_private=false" /> 
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=dannicod&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannicod&layout=compact&langs_count=7&theme=react"/>
 
   <h3>TEMPO DE CÓDIGO ⏳</h3>
