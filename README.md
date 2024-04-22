@@ -38,7 +38,7 @@
 
 <br>
 <div align="center">
-<img src="https://media1.tenor.com/m/XZmkTB1ShDcAAAAC/html-peter.gif" width="690" height="439.2168674698795" alt="Html Peter GIF - Html Peter Html With Peter GIFs" style="max-width: 690px;">
+<img src="https://tenor.com/pt-BR/view/pereira-alex-pereira-poatan-gif-12306391207186034227" alt="Html Peter GIF - Poatan">
 </div>
 <br>
 <div align="center">
