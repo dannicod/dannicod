@@ -38,7 +38,8 @@
 
 <br>
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/pereira-alex-pereira-poatan-gif-12306391207186034227" alt="poatan">
+  <img src="https://media1.tenor.com/m/qskVmdNQbjMAAAAd/pereira-alex-pereira.gif">
+
 </div>
 <br>
 <div align="center">
