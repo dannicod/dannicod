@@ -45,9 +45,10 @@
 <h2 align="center" >📚 CERTIFICADOS 📚</h2>
 <br>
   <h3>SENAI</h3>
-      <p></p>Desenvolvedor Front-End 240 horas ⏳</p>
+      <p> Desenvolvedor Front-End 240 horas ⏳</p>
       <li>Logica de Programação ✔️</li>
       <li>Html5 & Css3 ⏳</li>
+    <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Desafios%20Complexos%20e%20Lideran%C3%A7a%20Impactante.pdf">Desafios Complexos e Liderança Impactante - 8 horas</a>
  <h3>🚀ALURA</h3>
   <ul>
     <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags"><p>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas ⏳</p></a>
