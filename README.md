@@ -6,6 +6,31 @@
   <br>
 - 👾 Cursando Desenvolvimento Front-end SENAI ...
 </div></br>
+<div align="center">
+<h2 align="center" >📚 PROJETOS 📚</h2>
+<br>
+    <a href="https://dannicod.github.io/CAMPAGNE-RESTAURANTE/index.html"> CAMPAGNE RESTAURANTE</a>
+<br>
+    <a href="https://dannicod.github.io/SPOTIFY-CLONE/index.html"> SPOTIFY CLONE</a>
+<br>
+<div align="center">
+<h2 align="center" >📚 CERTIFICADOS 📚</h2>
+  <h3>🦉 SENAI</h3>
+      <p> Desenvolvedor Front-End 240 horas ⏳</p>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Eleva%C3%A7%C3%A3o%20Sustent%C3%A1vel%20Dom%C3%ADnio%20do%20ESG%20para%20um%20Futuro%20Respons%C3%A1vel.pdf">Elevação Sustentável: Domínio do ESG para um Futuro Responsável - 8 horas</a>
+      <br>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Despertando%20a%20Criatividade%20e%20a%20Inova%C3%A7%C3%A3o.pdf">Despertando a Criatividade e a Inovação - 8 horas</a>
+      <br>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Desafios%20Complexos%20e%20Lideran%C3%A7a%20Impactante.pdf">Desafios Complexos e Liderança Impactante - 8 horas</a>
+      <br>
+      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/SoftSkills.pdf">SoftSkills - 8 horas</a>
+ <h3>🚀ALURA</h3>
+  <ul>
+    <a href="https://github.com/dannicod/Certificados/blob/main/ALURA/Curso%20HTML%20e%20CSS.pdf">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas </a>
+    <br>
+<h3>🗿 FACULDADE</h3>
+    <a href="https://github.com/dannicod/Certificados/blob/main/Faculdade%20DESCOMPLICA/programmer-descomplica.png">Programmer - 160 horas </a>
+
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
@@ -35,37 +60,12 @@
   <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dannicod&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
 </br>
-
 <br>
+
 <div align="center">
   <img src="https://media1.tenor.com/m/qskVmdNQbjMAAAAd/pereira-alex-pereira.gif">
 
 </div>
-<br>
-<div align="center">
-<h2 align="center" >📚 CERTIFICADOS 📚</h2>
-<br>
-  <h3>🦉 SENAI</h3>
-      <p> Desenvolvedor Front-End 240 horas ⏳</p>
-      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Eleva%C3%A7%C3%A3o%20Sustent%C3%A1vel%20Dom%C3%ADnio%20do%20ESG%20para%20um%20Futuro%20Respons%C3%A1vel.pdf">Elevação Sustentável: Domínio do ESG para um Futuro Responsável - 8 horas</a>
-      <br>
-      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Despertando%20a%20Criatividade%20e%20a%20Inova%C3%A7%C3%A3o.pdf">Despertando a Criatividade e a Inovação - 8 horas</a>
-      <br>
-      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Desafios%20Complexos%20e%20Lideran%C3%A7a%20Impactante.pdf">Desafios Complexos e Liderança Impactante - 8 horas</a>
-      <br>
-      <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/SoftSkills.pdf">SoftSkills - 8 horas</a>
- <h3>🚀ALURA</h3>
-  <ul>
-    <a href="https://github.com/dannicod/Certificados/blob/main/ALURA/Curso%20HTML%20e%20CSS.pdf">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas </a>
-    <br>
-<h3>🗿 FACULDADE</h3>
-    <a href="https://github.com/dannicod/Certificados/blob/main/Faculdade%20DESCOMPLICA/programmer-descomplica.png">Programmer - 160 horas </a>
-<div align="center">
-<h2 align="center" >📚 PROJETOS 📚</h2>
-<br>
-    <a href="https://dannicod.github.io/CAMPAGNE-RESTAURANTE/index.html"> CAMPAGNE RESTAURANTE</a>
-<br>
-    <a href="https://dannicod.github.io/SPOTIFY-CLONE/index.html"> SPOTIFY CLONE</a>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=seja+bem+vindo!;" />
