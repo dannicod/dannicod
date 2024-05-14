@@ -45,7 +45,7 @@
 <div align="center">
 <h2 align="center" >📚 CERTIFICADOS 📚</h2>
 <br>
-  <h3>SENAI</h3>
+  <h3>🦉 SENAI</h3>
       <p> Desenvolvedor Front-End 240 horas ⏳</p>
       <a href="https://github.com/dannicod/Certificados/blob/main/SENAI-DF/Eleva%C3%A7%C3%A3o%20Sustent%C3%A1vel%20Dom%C3%ADnio%20do%20ESG%20para%20um%20Futuro%20Respons%C3%A1vel.pdf">Elevação Sustentável: Domínio do ESG para um Futuro Responsável - 8 horas</a>
       <br>
@@ -58,6 +58,8 @@
   <ul>
     <a href="https://github.com/dannicod/Certificados/blob/main/ALURA/Curso%20HTML%20e%20CSS.pdf">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - 8 horas </a>
     <br>
+<h3>🗿 FACULDADE</h3>
+    <a href="https://github.com/dannicod/Certificados/blob/main/Faculdade%20DESCOMPLICA/programmer-descomplica.png">Programmer - 160 horas </a>
 <div align="center">
 <h2 align="center" >📚 PROJETOS 📚</h2>
 <br>
