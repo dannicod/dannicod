@@ -35,7 +35,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,css,vscode,github," />
+  <img src="https://skillicons.dev/icons?i=javascript,jquery,bootstrap,html,css,vscode,github," />
 </div>
 
 <div align="center">
