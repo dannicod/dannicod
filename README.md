@@ -13,7 +13,7 @@
 <br>
     <a href="https://dannicod.github.io/SPOTIFY-CLONE/index.html"> SPOTIFY CLONE</a>
 <br>
-  <a href="https://dannicod.github.io/CineSenai/"> CINE SENAI</a>
+  <a href="https://dannicod.github.io/CinemaSenai/"> CINEMA SENAI</a>
 <div align="center">
 <h2 align="center" >📚 CERTIFICADOS 📚</h2>
   <h3>🦉 SENAI</h3>
